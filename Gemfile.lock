@@ -211,6 +211,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  bcrypt
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.0.0.beta2.1)
   byebug
